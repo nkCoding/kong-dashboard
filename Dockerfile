@@ -1,4 +1,4 @@
-FROM mhart/alpine-node
+FROM mhart/alpine-node:6
 MAINTAINER Rémi Alvergnat <toilal.dev@gmail.com>
 
 COPY . /data
